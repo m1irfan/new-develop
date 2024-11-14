@@ -1,7 +1,7 @@
 /**
  * 
  */
-/**
+/** module file
  * 
  */
 module myapp {
